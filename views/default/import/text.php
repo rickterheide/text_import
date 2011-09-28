@@ -1,0 +1,1 @@
+<a class="import_text" href="<?php echo $vars['url'] . 'pg/text_import/import/text'; ?>?internalname=<?php echo $vars['internalname']; ?>" rel="fancybox"><?php echo elgg_echo('text_import:importfromfile'); ?></a>
